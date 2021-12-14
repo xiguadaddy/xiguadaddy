@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xiguadaddy
-学习Python
+- 学习Python和记录项目
 - 📫 How to reach me ...
 
 <!---
